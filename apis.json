@@ -1,0 +1,64 @@
+{
+    "name": "PipelineDeals",
+    "description": "Customer relationship management (CRM) and sales pipeline management software to organize, track, and manage your sales pipeline, deals, leads, and contacts. 14 Day Free Trial for your sales force.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/457-pipelinedeals.jpg",
+    "tags": [
+        "crm",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pipelinedeals\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PipelineDeals",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/457-pipelinedeals.jpg",
+            "humanURL": "https:\/\/www.pipelinedeals.com\/pricing",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pipelinedeals-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.pipelinedeals.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.pipelinedeals.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pipelinedeals-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.pipelinedeals.com\/developers"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/PipelineDeals"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pipelinedeals"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.pipelinedeals.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.pipelinedeals.com\/pricing"
+        }
+    ]
+}
